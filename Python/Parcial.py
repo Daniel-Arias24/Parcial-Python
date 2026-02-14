@@ -105,7 +105,7 @@ def generar_reporte(datos_recoleccion):
         elif promedio >= 8 and promedio <= 15:
             clasificacion = "Estable ☝ "
         else:
-            clasificacion = "Alto (excelente… o están reciclando hasta la paciencia)"
+            clasificacion = "Alto 🤑 (excelente… o están reciclando hasta la paciencia)"
             
         print(f"Material: {material}")
         print(f"- Promedio: {promedio:.2f} kg") 
